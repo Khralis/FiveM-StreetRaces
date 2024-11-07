@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'khralis'
+author 'bepo13,banhsz,khralis'
 description 'streetraces'
 version '0.0.2'
 
